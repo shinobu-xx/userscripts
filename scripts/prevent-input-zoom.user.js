@@ -4,7 +4,7 @@
 // @version      2.0
 // @icon         https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/images/IMG_3223.png
 // @description  Prevents Safari from zooming on input fields across all websites without breaking navigation
-// @author       Your Name
+// @author       shinobu-xx
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
