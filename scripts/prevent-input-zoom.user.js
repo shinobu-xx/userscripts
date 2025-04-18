@@ -2,7 +2,7 @@
 // @name         Universal Input Zoom Prevention
 // @namespace    disable-input-zoom
 // @version      2.0
-// @icon         https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/images/IMG_3223.png
+// @icon         https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/images/E972B9C0-EC0F-42C1-A2D6-DF9E9602866A.png
 // @description  Prevents Safari from zooming on input fields across all websites without breaking navigation
 // @author       shinobu-xx
 // @match        *://*/*
