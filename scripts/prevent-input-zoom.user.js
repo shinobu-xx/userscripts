@@ -5,8 +5,11 @@
 // @icon         https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/images/E972B9C0-EC0F-42C1-A2D6-DF9E9602866A.png
 // @description  Prevents Safari from zooming on input fields across all websites without breaking navigation
 // @author       shinobu-xx
+// @updateURL    https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/scripts/prevent-input-zoom.user.js
+// @downloadURL  https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/scripts/prevent-input-zoom.user.js
 // @match        *://*/*
 // @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
