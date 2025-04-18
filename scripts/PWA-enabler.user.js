@@ -4,8 +4,8 @@
 // @version      0.2
 // @description  Enable PWA installation for any website on iOS Safari with proper status bar handling
 // @author       shinobu-xx
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/scripts/PWA-enabler.user.js
+// @updateURL    https://raw.githubusercontent.com/shinobu-xx/userscripts/refs/heads/main/scripts/PWA-enabler.user.js
 // @match        *://*/*
 // @grant        GM_addStyle
 // @grant        unsafeWindow
